@@ -139,6 +139,7 @@ Esta librería nos ayudó a obtener la ubicación geoespacial del canal, ubicado
 - GeoPy: GeoPy facilita a desarrolladores de Python localizar las coordenadas de direcciones, ciudades, países y puntos de referencia en todo el mundo mediante geocodificadores de terceros y otras fuentes de datos.
 
 La librería nos ayudó a localizar la ubicación del canal. ![](Aspose.Words.22fd89d6-2d91-42b6-84df-92ab45620d4d.012.png)
+
 ![Aspose Words 27374307-8477-4757-971b-f37617b88388 013](https://user-images.githubusercontent.com/119511322/205757983-15c7162b-3549-481e-874d-9029635ddb93.png)
 
 *Imagen 12. Resultado con el uso de las librerías GeoPy.*
