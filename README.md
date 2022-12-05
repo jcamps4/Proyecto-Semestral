@@ -71,6 +71,7 @@ Se comienza la investigación sobre librerías de Python que se puedan utilizar 
  Además, este programa nos permitirá conocer dicha ubicación del canal ubicado en la 	Facultad de Ingeniería Civil. 
 
 ![](Aspose.Words.22fd89d6-2d91-42b6-84df-92ab45620d4d.004.png)
+![Aspose Words 27374307-8477-4757-971b-f37617b88388 004](https://user-images.githubusercontent.com/119511322/205754987-2241d7e9-1a54-4c60-b1a3-259b3bc282c8.png)
 
 *Imagen 4. Código Python geoespacial.*
 
