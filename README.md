@@ -86,7 +86,10 @@ Para el cálculo del volumen del canal en Python realizamos un código que a par
 
  Ya como último paso que realizamos fue crear el programa en Python para poder calcular el volumen (caudal) de dicho canal con los datos obtenidos, para realizar el código tomamos en cuenta las características de los canales y ciertos aspectos que nos parecieron interesantes para poder conocer el volumen (caudal), a partir de ciertos datos a ingresar de forma manual al programa. otra parte interesante que tiene el código de programación es que se pueden integrar los datos de manera manual, para poder así tener el manejo de los datos. 
 
+![Aspose Words 27374307-8477-4757-971b-f37617b88388 006](https://user-images.githubusercontent.com/119511322/205755745-a25f3180-549d-4993-9465-b65ba943031d.png)
+
 ![](Aspose.Words.22fd89d6-2d91-42b6-84df-92ab45620d4d.006.png)*Imagen 6. Código Python Volumen canal*
+
 
 Resultado obtenido después de la ejecución: 
 
