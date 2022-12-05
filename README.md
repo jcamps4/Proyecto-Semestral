@@ -132,6 +132,7 @@ Esta librería nos fue de gran ayuda ya que nos permitió por medio del código 
 Esta librería nos ayudó a obtener la ubicación geoespacial del canal, ubicado en la Facultad de Ingeniería Civil.
 
 ![](Aspose.Words.22fd89d6-2d91-42b6-84df-92ab45620d4d.011.png)
+![Aspose Words 27374307-8477-4757-971b-f37617b88388 012](https://user-images.githubusercontent.com/119511322/205757733-b7d81563-4895-4b4d-9e64-4d53a18056e5.png)
 
 *Imagen ilustrativa 11. Resultado con el uso de las librerías Geopandas.*
 
