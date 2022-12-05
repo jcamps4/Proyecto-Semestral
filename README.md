@@ -55,7 +55,6 @@ Se comienza la investigación sobre librerías de Python que se puedan utilizar 
  Subimos nuestro archivo Excel a nuestro drive y procedemos a crear el código que nos permitirá graficar la sección de dicho canal ya mencionado, al código tenemos que ponerle el nombre del archivo que subimos a drive y ejecutará los datos de las secciones.
 
 ![](Aspose.Words.22fd89d6-2d91-42b6-84df-92ab45620d4d.002.png)
-
 ![Aspose Words 27374307-8477-4757-971b-f37617b88388 002](https://user-images.githubusercontent.com/119511322/205753698-080a7c54-a298-4aa7-ac22-670c82a41d1b.png)
 
 *Imagen 2. Código grafico de secciones con el uso de la librería matplotlib.*
@@ -63,7 +62,6 @@ Se comienza la investigación sobre librerías de Python que se puedan utilizar 
  Ejecutamos y nos dará el resultado de la sección referida de dicho canal graficada con el uso de las librerías.
 
 ![](Aspose.Words.22fd89d6-2d91-42b6-84df-92ab45620d4d.003.png)
-
 ![Aspose Words 27374307-8477-4757-971b-f37617b88388 003](https://user-images.githubusercontent.com/119511322/205754650-4f2334fe-75a9-43a0-9fe2-fe10262cf036.png)
 
 *Imagen 3. Resultado grafico obtenido del código grafico de secciones.*
@@ -77,11 +75,10 @@ Se comienza la investigación sobre librerías de Python que se puedan utilizar 
 
 
 
-
-
 La ejecución del código mostro lo siguiente:
 
 ![](Aspose.Words.22fd89d6-2d91-42b6-84df-92ab45620d4d.005.png)
+![Aspose Words 27374307-8477-4757-971b-f37617b88388 005](https://user-images.githubusercontent.com/119511322/205755374-8670ad55-8d65-4dd7-803f-b92cd72261f3.png)
 
 *Imagen 5. Código ejecutado resultado con el uso de las librerías matplotlib y basemap.*
 
