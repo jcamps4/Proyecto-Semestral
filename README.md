@@ -64,6 +64,8 @@ Se comienza la investigación sobre librerías de Python que se puedan utilizar 
 
 ![](Aspose.Words.22fd89d6-2d91-42b6-84df-92ab45620d4d.003.png)
 
+![Aspose Words 27374307-8477-4757-971b-f37617b88388 003](https://user-images.githubusercontent.com/119511322/205754650-4f2334fe-75a9-43a0-9fe2-fe10262cf036.png)
+
 *Imagen 3. Resultado grafico obtenido del código grafico de secciones.*
 
  Además, este programa nos permitirá conocer dicha ubicación del canal ubicado en la 	Facultad de Ingeniería Civil. 
