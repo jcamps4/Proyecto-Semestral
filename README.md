@@ -122,6 +122,7 @@ Las librerías utilizadas para realizar los códigos correspondientes utilizando
 Esta librería nos fue de gran ayuda ya que nos permitió por medio del código obtener como resultado el mapa con la ubicación de dicho canal.
 
 ![](Aspose.Words.22fd89d6-2d91-42b6-84df-92ab45620d4d.010.png)
+![Aspose Words 27374307-8477-4757-971b-f37617b88388 011](https://user-images.githubusercontent.com/119511322/205757499-d66eb05a-cdee-46ec-85b2-a75eb93e3a6a.png)
 
 *Imagen 10. Resultado con el uso de las librerías basemap.*
 
