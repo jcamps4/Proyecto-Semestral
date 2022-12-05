@@ -48,7 +48,7 @@ Posterior a esto se procede a investigar a que tipo de canal pertenece el canal 
 Se comienza la investigación sobre librerías de Python que se puedan utilizar para poder darnos la ubicación del área de estudio, esto va enfocado más a lo geoespacial, entre estas librerías se encuentran Basemap, Folium, entre otras, las cuales nos pueden marcar mediante un punto donde se encuentra el lugar de trabajo.
 
  ![](Aspose.Words.22fd89d6-2d91-42b6-84df-92ab45620d4d.001.png)Exportamos los datos obtenidos de las secciones a una hoja de cálculo en Excel, para tener un mejor manejo de los datos.
-
+ 
 ![Aspose Words 27374307-8477-4757-971b-f37617b88388 001](https://user-images.githubusercontent.com/119511322/205752692-151a5302-c607-4085-b103-8ea56b936f52.png)
 *Imagen 1. Datos del canal.*
 
