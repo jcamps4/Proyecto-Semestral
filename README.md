@@ -101,6 +101,7 @@ Resultado obtenido después de la ejecución:
  Se realizo también dos códigos en colab los cuales también van de entrada en nuestra parte geoespacial del proyecto realizado, el primer código realizado nos permite obtener la ubicación del lugar de estudio en un mapa interactivo implementando la librería folium.
 
 ![Captura de pantalla (32)](Aspose.Words.22fd89d6-2d91-42b6-84df-92ab45620d4d.008.png)
+![Aspose Words 27374307-8477-4757-971b-f37617b88388 008](https://user-images.githubusercontent.com/119511322/205756582-9d7801b8-c3cd-4e73-92a2-455ad22b33a8.png)
 
 `         `*Imagen 8. Resultado mapa interactivo con folium.*
 
