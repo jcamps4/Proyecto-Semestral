@@ -56,6 +56,8 @@ Se comienza la investigación sobre librerías de Python que se puedan utilizar 
 
 ![](Aspose.Words.22fd89d6-2d91-42b6-84df-92ab45620d4d.002.png)
 
+![Aspose Words 27374307-8477-4757-971b-f37617b88388 002](https://user-images.githubusercontent.com/119511322/205753698-080a7c54-a298-4aa7-ac22-670c82a41d1b.png)
+
 *Imagen 2. Código grafico de secciones con el uso de la librería matplotlib.*
 
  Ejecutamos y nos dará el resultado de la sección referida de dicho canal graficada con el uso de las librerías.
