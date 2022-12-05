@@ -113,6 +113,8 @@ Las librerías utilizadas para realizar los códigos correspondientes utilizando
 - Numpy: La librería NumPy nos permitió una generación y manejo de datos extremadamente rápido. NumPy tiene su propia estructura de datos incorporada llamado arreglo que es similar a la lista normal de Python, pero puede almacenar y operar con datos de manera mucho más eficiente.
 - Matplotlib: Esta librería nos ayudó a realizar el grafico de las secciones del canal. Matplotlib es una librería de Python especializada en la creación de gráficos en dos dimensiones. Permite crear y personalizar los tipos de gráficos más comunes, entre ellos: Diagramas de barras.
 
+![Aspose Words 27374307-8477-4757-971b-f37617b88388 010](https://user-images.githubusercontent.com/119511322/205756997-730e7ed6-755e-4b7f-b4b6-a5d046fb7827.png)
+
 ![](Aspose.Words.22fd89d6-2d91-42b6-84df-92ab45620d4d.009.png)*Imagen 9. Código ejecutado resultado con el uso de las librerías matplotlib.*
 
 - Basemap: Basemap no es exactamente una librería como tal. De hecho, es un conjunto de herramientas, una extensión, de la propia librería Matplotlib de Python.
