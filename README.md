@@ -94,6 +94,7 @@ Para el cálculo del volumen del canal en Python realizamos un código que a par
 Resultado obtenido después de la ejecución: 
 
 ![](Aspose.Words.22fd89d6-2d91-42b6-84df-92ab45620d4d.007.png)
+![Aspose Words 27374307-8477-4757-971b-f37617b88388 007](https://user-images.githubusercontent.com/119511322/205756243-f81ce549-8f74-411a-8150-60aa54e76224.png)
 
 *Imagen 7. Resultado código ejecutado cálculo de volúmenes*
 
