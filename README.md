@@ -13,18 +13,14 @@ Se generará un programa en Python el cual tiene como propósito leer un archivo
 
 **Palabras clave:** 1. Programa. 2.Python. 3. Canales
 
-
- **Introducción**
-Apoyándose del trabajo realizado en la materia de proyecto integrador, se idea la elaboración de un código en lenguaje Python que nos sea de ayuda para realizar cálculos sobre volúmenes, velocidad del agua por segundo en los canales así como la graficacion de una sección en particular del canal la cual haría que nosotros lográramos visualizar más o menos la forma en que está construido el canal e identificar si la pendiente es positiva o negativa, como elemento un poco más enfocado a lo geoespacial se tiene planeado realizar un apartado en el código que nos permita que mediante las coordenadas del lugar nos arroje la ubicación del canal en donde se realizó el trabajo. 
-
-
-
 **Abstract**
 
 A Python program will be generated whose purpose is to read an Excel file, in which data from a survey of sections on a canal located on the Coquimatlán campus in the Faculty of Civil Engineering are found, to obtain as a result that the program automatically generates the volume obtained from a certain channel, providing you with certain key data, also for a better visual understanding, graph the results.
 
 **Keywords**: 1. Program 2. Python 3. Channels.
 
+ **Introducción**
+Apoyándose del trabajo realizado en la materia de proyecto integrador, se idea la elaboración de un código en lenguaje Python que nos sea de ayuda para realizar cálculos sobre volúmenes, velocidad del agua por segundo en los canales así como la graficacion de una sección en particular del canal la cual haría que nosotros lográramos visualizar más o menos la forma en que está construido el canal e identificar si la pendiente es positiva o negativa, como elemento un poco más enfocado a lo geoespacial se tiene planeado realizar un apartado en el código que nos permita que mediante las coordenadas del lugar nos arroje la ubicación del canal en donde se realizó el trabajo. 
 
 
  **Desarrollo.**
